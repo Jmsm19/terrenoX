@@ -1,0 +1,42 @@
+body {
+	background: lightblue url("./img/water.jpg");
+}
+
+.terreno {
+	margin: 20px auto 20px auto;
+}
+
+.caja {
+	height: 50px;
+	width: 50px;
+	border: 1px solid #232323;
+}
+
+.container {
+	height: 100%;
+}
+
+.agua {
+	background-color: lightblue;
+	background: url("./img/water.jpg") cover;
+}
+
+.fuego {
+	background-color: red;
+	background: url("./img/lava.gif") cover;
+}
+
+.tierra {
+	background-color: brown;
+	background: url("./img/sand.jpg") cover;
+}
+
+.piedra {
+	background-color: #ccc;
+	background: url("./img/stone.jpg") cover;
+}
+
+.grama {
+	background-color: green;
+	background: url("./img/grass.jpg") cover;
+}
